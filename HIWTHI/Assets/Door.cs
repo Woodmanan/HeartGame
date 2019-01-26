@@ -36,7 +36,7 @@ public class Door : MonoBehaviour
     private void closeDoor()
     {
         GetComponent<Animator>().SetBool("Open", false);
-        Invoke("toggleCollider", 1f);
+        Invoke("toggleCollider", .8f);
         open = false;
     }
 
