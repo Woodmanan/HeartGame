@@ -62,6 +62,9 @@
   <ItemGroup>
     <Compile Include="Assets\CouchTrap.cs" />
     <Compile Include="Assets\PlayerController.cs" />
+    <Reference Include="Unity.2D.PixelPerfect.Editor">
+      <HintPath>C:/Users/Woodm/Desktop/HIWTHI/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Woodm/Desktop/HIWTHI/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -71,17 +74,14 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/Woodm/Desktop/HIWTHI/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.PixelPerfect">
+      <HintPath>C:/Users/Woodm/Desktop/HIWTHI/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/Woodm/Desktop/HIWTHI/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>C:/Users/Woodm/Desktop/HIWTHI/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.PixelPerfect.Editor">
-      <HintPath>C:/Users/Woodm/Desktop/HIWTHI/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.PixelPerfect">
-      <HintPath>C:/Users/Woodm/Desktop/HIWTHI/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
